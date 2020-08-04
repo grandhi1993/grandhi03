@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+harihs is rock star
+=======
 haritha is wise leady
+>>>>>>> master
