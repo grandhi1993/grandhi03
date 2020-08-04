@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+haritha is practising seriusly for ielts exam
+=======
 1
 2
 3
@@ -9,3 +12,4 @@
 9
 10
 
+>>>>>>> master
